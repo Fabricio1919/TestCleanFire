@@ -1,4 +1,4 @@
-#!C:\Users\ihugo\OneDrive\Documentos\Repositorios\Python_Repo\TestClean\venv\Scripts\python.exe
+#!C:\Users\fabri\Documents\TestCleanFire\venv\Scripts\python.exe
 
 import sys
 import json
